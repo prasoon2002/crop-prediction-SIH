@@ -1,0 +1,2 @@
+# crop-prediction-SIH
+AN CROP PREDICTION  WEBSITE FOR FARMERS
